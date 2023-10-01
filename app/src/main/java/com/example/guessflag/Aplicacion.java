@@ -11,10 +11,10 @@ import java.util.Random;
 /**
  * Clase principal de la aplicacion. Contiene la logica de funcionamiento de una partida y el estado
  * general de partida iniciada o no.
+ *
+ * @author Jose Javier Bailón Ortiz
  */
 public class Aplicacion extends Application {
-
-
 
 
     /**

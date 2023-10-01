@@ -14,6 +14,7 @@ import android.widget.Toast;
 /**
  * Clase de vista principal. Gestiona los eventos de pulsado de los botones y la configuracion
  * del layout dependiendo del estado de la aplicacion.
+ * @author Jose Javier Bailón Ortiz
  */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     /**
